@@ -1,5 +1,6 @@
 header {
     background-color: #990000;
+    text-align: center;
 }
 
 body{
@@ -8,8 +9,10 @@ body{
 
 footer {
     background-color: #007700;
+    text-align: center;
 }
 
 article{
     background-color: #FFFFFF;
+    padding: 20;
 }
