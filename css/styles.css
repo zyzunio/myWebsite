@@ -12,7 +12,12 @@ footer {
     text-align: center;
 }
 
+.page-title{
+    text-align: center;
+}
+
 article{
     background-color: #FFFFFF;
-    padding: 20;
+    margin: 20px;
+    padding: 20px;
 }
