@@ -199,7 +199,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .logo-text {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: 24px;
             font-weight: 900;
             background: linear-gradient(45deg, #39FF00, #FF00FF);
@@ -232,7 +232,7 @@ https://templatemo.com/tm-596-electric-xtra
             position: relative;
             transition: all 0.3s ease;
             padding: 8px 16px;
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-weight: 500;
             font-size: 14px;
             text-transform: uppercase;
@@ -353,7 +353,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .glitch-text {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: clamp(0.98rem, 2.94vw, 2.4rem);
             font-weight: 900;
             position: relative;
@@ -418,7 +418,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .glitch-text {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: clamp(2.6rem, 10vw, 3.8rem);
             font-weight: 900;
             position: relative;
@@ -505,7 +505,7 @@ https://templatemo.com/tm-596-electric-xtra
             display: inline-block;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-weight: 700;
         }
 
@@ -569,7 +569,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .section-title {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: 3rem;
             font-weight: 900;
             text-align: center;
@@ -643,7 +643,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .content-panel h3 {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: 2rem;
             margin-bottom: 20px;
             background: linear-gradient(45deg, #ffffff, #39FF00);
@@ -704,7 +704,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .about-text h2 {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: 2.5rem;
             margin-bottom: 30px;
             background: linear-gradient(45deg, #39FF00, #FF00FF);
@@ -879,7 +879,7 @@ https://templatemo.com/tm-596-electric-xtra
             letter-spacing: 1px;
             cursor: pointer;
             transition: all 0.3s ease;
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
         }
 
         .submit-btn:hover {
@@ -892,7 +892,7 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .contact-info h3 {
-            font-family: 'Orbitron', monospace;
+            font-family: 'Tektur', monospace;
             font-size: 2rem;
             margin-bottom: 30px;
             background: linear-gradient(45deg, #ffffff, #39FF00);
